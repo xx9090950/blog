@@ -12,6 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+[php秒杀其实很简单](https://xx9090950.github.io/blog/PHP+Redis%E7%A7%92%E6%9D%80%E5%85%B6%E5%AE%9E%E5%BE%88%E7%AE%80%E5%8D%95)
+
 ## Header 2
 ### Header 3
 
