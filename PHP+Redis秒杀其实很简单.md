@@ -1,9 +1,9 @@
 ### 前言： 
 秒杀这个问题，一直以来都是经典的面试题。但是秒杀也分大小。如果一个产品的用户不超过5w，上来就问双十一级别的秒杀。那就没有意思了~，所以今天就简单聊下一般条件下的秒杀的思路。方法只有两个，一个是装载秒杀商品。一个就是模拟用户进场秒杀。
-![图片发自简书App](http://upload-images.jianshu.io/upload_images/6016628-2a2b0cda41f1136a.jpg)
+![示例](http://upload-images.jianshu.io/upload_images/6016628-2a2b0cda41f1136a.jpg)
 
 
-####工具介绍
+#### 工具介绍
 首先环境就比较简单 
 1. Apache
 2. PHP 7.3
